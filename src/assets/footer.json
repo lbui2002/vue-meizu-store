@@ -1,0 +1,94 @@
+[
+    {
+        "cols": {
+            "name": "帮助说明",
+            "sub": [
+                {
+                    "name": "支付方式",
+                    "url": "http://store.meizu.com/explain/payment_help.html"
+                },
+                {
+                    "name": "配送说明",
+                    "url": "http://store.meizu.com/explain/deliverynote.html"
+                },
+                {
+                    "name": "售后服务",
+                    "url": "http://store.meizu.com/explain/warranty_services.html"
+                },
+                {
+                    "name": "付款帮助",
+                    "url": "http://store.meizu.com/explain/payment_helps.html"
+                }
+            ]
+        }
+    },
+    {
+        "cols": {
+            "name": "Flyme",
+            "sub": [
+                {
+                    "name": "开放平台",
+                    "url": "https://open.flyme.cn/"
+                },
+                {
+                    "name": "固件下载",
+                    "url": "http://www.flyme.cn/firmware.jsp"
+                },
+                {
+                    "name": "软件商店",
+                    "url": "http://app.flyme.cn/"
+                },
+                {
+                    "name": "查找手机",
+                    "url": "http://finder.flyme.cn/"
+                }
+            ]
+        }
+    },
+    {
+        "cols": {
+            "name": "关于我们",
+            "sub": [
+                {
+                    "name": "关于魅族",
+                    "url": "http://www.meizu.com/about.html"
+                },
+                {
+                    "name": "加入我们",
+                    "url": "http://hr.meizu.com/"
+                },
+                {
+                    "name": "联系我们",
+                    "url": "http://www.meizu.com/contact.html"
+                },
+                {
+                    "name": "法律声明",
+                    "url": "http://www.meizu.com/legalStatement.html"
+                }
+            ]
+        }
+    },
+    {
+        "cols": {
+            "name": "关注我们",
+            "sub": [
+                {
+                    "name": "新浪微博",
+                    "url": "http://weibo.com/meizumobile"
+                },
+                {
+                    "name": "腾讯微博",
+                    "url": "http://t.qq.com/meizu_tech"
+                },
+                {
+                    "name": "QQ空间",
+                    "url": "http://user.qzone.qq.com/2762957059"
+                },
+                {
+                    "name": "官方微信",
+                    "url": "#"
+                }
+            ]
+        }
+    } 
+]
